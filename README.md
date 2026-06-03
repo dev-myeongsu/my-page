@@ -1,13 +1,13 @@
-### Git 브랜치 전략
+<img src="https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=F03C2E"> <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=#181717">
 
----
+## Git 브랜치 전략
 
 <details>
 <summary>① main</summary>
-
+ROM EM
 - 과거에 배포된 코드 또는 앞으로 배포될 최종 단계의 코드가 관리되는 곳
 - 태그와 함께 버전 정보가 기록됨
-- 원격저장소(origin/main)dptj 관리
+- 원격저장소(origin/main)에서관리
 
 </details>
 
@@ -115,9 +115,9 @@
 
   </details>
 
-### 커밋 메시지 구조
-
 ---
+
+## 커밋 메시지 구조
 
 ```
 <타입(type)>[범위(scope, 선택 사항)]: <제목(subject or description)>
@@ -141,3 +141,5 @@
 Resolves: #123
 See also: #456, #789
 ```
+
+---
